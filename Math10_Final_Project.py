@@ -8,7 +8,9 @@ rng = np.random.default_rng()
 
 st.set_page_config(layout="wide")
 st.title("Math10 Final Project")
-st.markdown("[Kaihao Zhang](http://github.com/tyb0v0), 21083348")
+st.markdown("[Kaihao Zhang](https://github.com/1879687161/Kaihao-Zhang/blob/main/Math10_Final_Project.py)")
+st.markdown("UCI ID: 21083348")
+st.markdown("Please click my name to see my code!")
 
 file = st.file_uploader("Upload file here:", type = ["csv"])
 
